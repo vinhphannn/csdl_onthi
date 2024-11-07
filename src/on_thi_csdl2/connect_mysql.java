@@ -9,10 +9,7 @@ import java.sql.DriverManager;
 
 import java.sql.*;
 
-/**
- *
- * @author Minh
- */
+//zinhhhh
 public class connect_mysql {
     public Connection getConnection(String dbURL, String userName, String password)
 
